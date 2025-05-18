@@ -1,1 +1,37 @@
-# Applied-problem-solving-in-CP
+# Applied Problem Solving in Competitive Programming
+
+Welcome to the Summer of Code 2025: 8-Week Track on mastering Competitive Programming (CP) through applied problem solving and structured practice.
+
+## Recommended Resources
+
+### Books and PDFs
+- [Introduction to Algorithms, Fourth Edition (CLRS)](https://drive.google.com/drive/folders/1-KrtV0GGh89Nrhn8cK5GXSShqFfEUBU9?usp=sharing)
+- [Competitive Programming 3 by Steven & Felix Halim](https://files.gitter.im/SamZhangQingChuan/sam/DA1g/Steven-Halim_-Felix-Halim-Competitive-Programming-3_-The-New-Lower-Bound-of-Programming-Contests-Lulu.com-_2013_.pdf)
+- [Competitive Programming Handbook (CSES)](https://cses.fi/book.pdf)
+
+### Video Tutorials (Recommended Order)
+- [C++ setup for Visual Studio Code](https://youtu.be/DMWD7wfhgNY?si=ng4nz-uYvURNxQXE)
+- [Complete C++ STL Playlist](https://youtube.com/playlist?list=PLauivoElc3gh3RCiQA82MDI-gJfXQQVnn&si=sCvOud5MMnf1w4sv)
+
+## Problem Solving Platforms
+- [CSES Problem Set](https://cses.fi/problemset/)
+- [LeetCode Practice](https://leetcode.com/)
+- [Codeforces Practice](https://codeforces.com/)
+
+## Week 1: Introductory Problems
+### Main Problems
+
+| #  | Problem                | Link                                                                 |
+|----|------------------------|----------------------------------------------------------------------|
+| 1  | Missing Number         | [CSES - Missing Number](https://cses.fi/problemset/task/1083)       |
+| 2  | Repetitions            | [CSES - Repetitions](https://cses.fi/problemset/task/1069)          |
+| 3  | Coin Combinations I    | [CSES - Coin Combinations I](https://cses.fi/problemset/task/1635)  |
+| 4  | Lucky Numbers          | [CSES - Lucky Numbers](https://cses.fi/problemset/task/1090)        |
+| 5  | Weird Algorithm        | [CSES - Weird Algorithm](https://cses.fi/problemset/task/1068)      |
+| 6  | Increasing Array       | [CSES - Increasing Array](https://cses.fi/problemset/task/1094)     |
+| 7  | Tower of Hanoi         | [CSES - Tower of Hanoi](https://cses.fi/problemset/task/2165)       |
+| 8  | Coin Piles             | [CSES - Coin Piles](https://cses.fi/problemset/task/1754)           |
+| 9  | Walking Master         | [CSES - Grid Paths](https://cses.fi/problemset/task/1625)           |
+| 10 | Two Knights            | [CSES - Two Knights](https://cses.fi/problemset/task/1072)          |
+
+
