@@ -35,3 +35,13 @@ Welcome to the Summer of Code 2025: 8-Week Track on mastering Competitive Progra
 | 10 | Two Knights            | [CSES - Two Knights](https://cses.fi/problemset/task/1072)          |
 
 
+### Additional Problems
+
+| #  | Problem Description                                         | Platform/Link                                                                                  |
+|----|-------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| 1  | Longest Subarray with Given Sum K (Positive integers only) | [GeeksforGeeks - Longest Subarray Sum K](https://practice.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) |
+| 2  | Longest Subarray with Sum K (Positives + Negatives)        | [GFG - Longest Subarray Sum with Pos/Neg](https://www.geeksforgeeks.org/longest-sub-array-sum-k/) |
+| 3  | Majority Element (> n/2 times)                              | [LeetCode - Majority Element](https://leetcode.com/problems/majority-element/)                |
+| 4  | Maximum Subarray Sum (Kadane's Algorithm)                  | [LeetCode - Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)               |
+| 5  | Hotel Bookings Possible                                     | [CodeChef - HOTEL](https://www.codechef.com/practice/course/2-star-difficulty-problems/DIFF1500/problems/HOTEL) |
+| 6  | Array Halves                                                | [CodeChef - ARRHALVES](https://www.codechef.com/practice/course/2-star-difficulty-problems/DIFF1500/problems/ARRHALVES) |
