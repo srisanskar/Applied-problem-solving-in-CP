@@ -12,6 +12,7 @@ Welcome to the Summer of Code 2025: 8-Week Track on mastering Competitive Progra
 ### Video Tutorials (Recommended Order)
 - [C++ setup for Visual Studio Code](https://youtu.be/DMWD7wfhgNY?si=ng4nz-uYvURNxQXE)
 - [Complete C++ STL Playlist](https://youtube.com/playlist?list=PLauivoElc3gh3RCiQA82MDI-gJfXQQVnn&si=sCvOud5MMnf1w4sv)
+- [C++ theory](https://youtu.be/OMcxQ3IY-qc?si=lchh39qdIIEfuHB0)
 
 ## Problem Solving Platforms
 - [CSES Problem Set](https://cses.fi/problemset/)
