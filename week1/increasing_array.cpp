@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
-int main(){
+#define int long long
+int32_t main(){
     int n;cin>>n;
     int a[n];
     int moves=0;
@@ -8,7 +9,10 @@ int main(){
         cin>>a[i];
     }
     for(int i=1;i<n;i++){
-        if(a[i]<a[i-1]) moves+=a[i-1]-a[i];
+        if(a[i]<a[i-1]){
+            moves+=a[i-1]-a[i];
+            a[i]=a[i-1];
+        }
     }
     cout<<moves<<endl;
 }

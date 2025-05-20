@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
-int main(){
+#define int long long
+int32_t main(){
     string s;cin>>s;
     int max=0;
     int curr=1;
