@@ -27,7 +27,7 @@ Welcome to the Summer of Code 2025: 8-Week Track on mastering Competitive Progra
 | 1  | Missing Number         | [CSES - Missing Number](https://cses.fi/problemset/task/1083)       |
 | 2  | Repetitions            | [CSES - Repetitions](https://cses.fi/problemset/task/1069)          |
 | 3  | Coin Combinations I    | [CSES - Coin Combinations I](https://cses.fi/problemset/task/1635)  |
-| 4  | Lucky Numbers          | [CSES - Lucky Numbers](https://cses.fi/problemset/task/1090)        |
+| 4  | Ferris Wheel           | [CSES - Ferris Wheel](https://cses.fi/problemset/task/1090)        |
 | 5  | Weird Algorithm        | [CSES - Weird Algorithm](https://cses.fi/problemset/task/1068)      |
 | 6  | Increasing Array       | [CSES - Increasing Array](https://cses.fi/problemset/task/1094)     |
 | 7  | Tower of Hanoi         | [CSES - Tower of Hanoi](https://cses.fi/problemset/task/2165)       |
