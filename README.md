@@ -117,7 +117,7 @@ Welcome to the Summer of Code 2025: 8-Week Track on mastering Competitive Progra
 | 1  | Generate All Binary Strings              | [GeeksforGeeks - Generate Binary Strings](https://practice.geeksforgeeks.org/problems/generate-all-binary-strings/1) |
 | 2  | Generate Parentheses                     | [LeetCode - Problem 22](https://leetcode.com/problems/generate-parentheses/)               |
 | 3  | Print All Subsequences / Power Set      | [GeeksforGeeks - Print Subsequences](https://practice.geeksforgeeks.org/problems/power-set4302/1) |
-| 4  | Learn All Patterns of Subsequences (Theory) | [YouTube - Theory Video](https://www.youtube.com/watch?v=...)  *(add actual link)*        |
+| 4  | Combination Sum III                     | [LeetCode - Problem 216](https://leetcode.com/problems/combination-sum-iii/)               |
 | 5  | Count All Subsequences with Sum K       | [GeeksforGeeks - Count Subsequences with Sum K](https://practice.geeksforgeeks.org/problems/count-subsequences-with-sum-k/0) |
 | 6  | Check if There Exists a Subsequence with Sum K | [GeeksforGeeks - Subsequence with Sum K](https://practice.geeksforgeeks.org/problems/subsequence-with-sum-k/0) |
 | 7  | Combination Sum                         | [LeetCode - Problem 39](https://leetcode.com/problems/combination-sum/)                    |
