@@ -46,3 +46,26 @@ Welcome to the Summer of Code 2025: 8-Week Track on mastering Competitive Progra
 | 4  | Maximum Subarray Sum (Kadane's Algorithm)                  | [LeetCode - Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)               |
 | 5  | Hotel Bookings Possible                                     | [CodeChef - HOTEL](https://www.codechef.com/practice/course/2-star-difficulty-problems/DIFF1500/problems/HOTEL) |
 | 6  | Array Halves                                                | [CodeChef - ARRHALVES](https://www.codechef.com/practice/course/2-star-difficulty-problems/DIFF1500/problems/ARRHALVES) |
+
+
+## Week 2:
+### Main Problems
+
+| #  | Problem                    | Link                                                                 |
+|----|----------------------------|----------------------------------------------------------------------|
+| 1  | Distinct Values Subsequences | [CSES - Distinct Values Subsequences](https://cses.fi/problemset/task/1734) |
+| 2  | Josephus Problem I         | [CSES - Josephus Problem I](https://cses.fi/problemset/task/2162)   |
+| 3  | Josephus Problem II        | [CSES - Josephus Problem II](https://cses.fi/problemset/task/2163)  |
+| 4  | Nested Ranges Check        | [CSES - Nested Ranges Check](https://cses.fi/problemset/task/2168)  |
+| 5  | Nested Ranges Count        | [CSES - Nested Ranges Count](https://cses.fi/problemset/task/2169)  |
+| 6  | Room Allocation            | [CSES - Room Allocation](https://cses.fi/problemset/task/1164)      |
+| 7  | Factory Machines           | [CSES - Factory Machines](https://cses.fi/problemset/task/1620)     |
+| 8  | Tasks and Deadlines        | [CSES - Tasks and Deadlines](https://cses.fi/problemset/task/1630)  |
+| 9  | Reading Books              | [CSES - Reading Books](https://cses.fi/problemset/task/1631)        |
+| 10 | Sum of Three Values        | [CSES - Sum of Three Values](https://cses.fi/problemset/task/1641)  |
+| 11 | Odd Queries                  | [Codeforces - Odd Queries](https://codeforces.com/problemset/problem/1807/D) |
+| 12 | Not Dividing                 | [Codeforces - Not Dividing](https://codeforces.com/problemset/problem/1535/C) |
+| 13 | Mainak and Array             | [Codeforces - Mainak and Array](https://codeforces.com/problemset/problem/1349/A) |
+| 14 | NIT Destroys the Universe   | [Codeforces - NIT Destroys the Universe](https://codeforces.com/problemset/problem/1690/F) |
+| 15 | AvtoBus                      | [Codeforces - AvtoBus](https://codeforces.com/problemset/problem/1051/B) |
+| 16 | Make It Increasing           | [Codeforces - Make It Increasing](https://codeforces.com/problemset/problem/1675/D) |
