@@ -1,31 +1,31 @@
 class Solution {
 public:
     int splitArray(vector<int>& nums, int k) {
-        int left = *max_element(nums.begin(), nums.end());
-        int right = 0;
-        for (int num : nums) right += num;
-
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
-
-            // Greedy check: can we split into k or fewer subarrays with max sum ≤ mid?
-            int currentSum = 0;
+        int l = *max_element(nums.begin(), nums.end());
+        int r = 0;
+        for(int num : nums){
+            r += num;
+        }
+        while(l <= r){
+            int mid = l + (r - l) / 2;
+            int current_sum = 0;
             int splits = 1;
-            for (int num : nums) {
-                if (currentSum + num > mid) {
+            for(int num : nums){
+                if(current_sum+num > mid){
                     splits++;
-                    currentSum = 0;
+                    current_sum = 0;
                 }
-                currentSum += num;
+                current_sum += num;
             }
 
-            if (splits <= k) {
-                right = mid - 1; // Try to minimize further
-            } else {
-                left = mid + 1;  // Need larger subarray sum
+            if(splits <= k){
+                r = mid - 1;
+            }
+            else{
+                l = mid + 1;
             }
         }
 
-        return left;
+        return l;
     }
 };

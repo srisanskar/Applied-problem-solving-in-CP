@@ -1,43 +1,43 @@
 class Solution {
+    bool check(vector<int> &arr, int k, int page_limit){
+        int cnt = 1;
+        int page_sum = 0;
+        
+        for(int i = 0; i < arr.size(); i++){
+            if(page_sum + arr[i] > page_limit){
+                cnt++;
+                page_sum = arr[i];
+            }
+            else{
+                page_sum += arr[i];
+            }
+        }
+        
+        return (cnt <= k);
+    }
+
     public:
-        int findPages(vector<int> &arr, int k) {
+        int findPages(vector<int> &arr, int k){
             if(k > arr.size())
                 return -1;
             
-            int lo = *max_element(arr.begin(), arr.end());
-            int hi = accumulate(arr.begin(), arr.end(), 0);
+            int l = *max_element(arr.begin(), arr.end());
+            int h = accumulate(arr.begin(), arr.end(), 0);
             int res = -1;
             
-            while(lo <= hi) {
-                int mid = lo + (hi - lo)/2;
+            while(l <= h){
+                int mid = l + (h - l)/2;
                 
                 if(check(arr, k, mid)){
                     res = mid;
-                    hi = mid - 1;
+                    h = mid - 1;
                 }
-                else {
-                    lo = mid + 1;
+                else{
+                    l = mid + 1;
                 }
             }
             
             return res;
         }
     
-    private:
-        bool check(vector<int> &arr, int k, int pageLimit) {
-            int cnt = 1;
-            int pageSum = 0;
-            
-            for(int i = 0; i < arr.size(); i++) {
-                if(pageSum + arr[i] > pageLimit) {
-                    cnt++;
-                    pageSum = arr[i];
-                }
-                else {
-                    pageSum += arr[i];
-                }
-            }
-            
-            return (cnt <= k);
-        }
 };
